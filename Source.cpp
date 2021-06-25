@@ -16,5 +16,5 @@ int main()
 	cout << "Aboba" << endl;
 	cout << "Abiba" << endl;
 	cout << "Make a Choice" << endl;
-	cin >> choice; cout << "Åhe choice is made" << endl;
+	cin >> choice; cout << "The choice is made" << endl;
 }
