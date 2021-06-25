@@ -12,4 +12,5 @@ int main()
 	srand(time(NULL));
 	cout << "Teacher work" << endl;
 	cout << "Viktor" << endl;
+	cout << endl;
 }
