@@ -11,6 +11,5 @@ int main()
 	SetConsoleCP(1251); SetConsoleOutputCP(1251);
 	srand(time(NULL));
 	cout << "Teacher work" << endl;
-	cout << "Aboba" << endl;
-	cout << "Abiba" << endl;
+	cout << "Viktor" << endl;
 }
