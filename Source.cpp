@@ -14,9 +14,12 @@ int main()
 	cout << "Teacher work" << endl;
 	//Never gonna give you up
 	cout << "Savva" << endl;
+	cout << "Nikita" << endl;
 	cout << "Aboba" << endl;
 	cout << "Abiba" << endl;
 	cout << "Oleg" << endl;
 	cout << "Make a Choice" << endl;
 	cin >> choice; cout << "The choice is made" << endl;
+	cout << "Viktor" << endl;
+	cout << "Daniil" << endl;
 }
