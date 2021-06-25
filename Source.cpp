@@ -13,6 +13,7 @@ int main()
 	string choice;
 	cout << "Teacher work" << endl;
 	cout << "Savva" << endl;
+	cout << "Nikita" << endl;
 	cout << "Aboba" << endl;
 	cout << "Abiba" << endl;
 	cout << "Make a Choice" << endl;
