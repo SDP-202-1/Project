@@ -25,7 +25,7 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Viktor.h">
+    <ClInclude Include="Ruslan.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
