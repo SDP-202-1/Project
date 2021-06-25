@@ -1,4 +1,4 @@
-#include <iostream>
+п»ї#include <iostream>
 #include <string>
 #include <ctime>
 #include <fstream>
@@ -10,11 +10,12 @@ int main()
 {
 	SetConsoleCP(1251); SetConsoleOutputCP(1251);
 	srand(time(NULL));
+	setlocale(LC_ALL, "rus");
 	string choice;
 	cout << "Teacher work" << endl;
 	//Never gonna give you up
 
-	cout << "Убийца нубов" << endl;
+	cout << "пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ" << endl;
 
 	cout << "Savva" << endl;
 	cout << "Nikita" << endl;
@@ -26,9 +27,17 @@ int main()
 	cout << "Daniil" << endl;
 	cout << "Make a Choice" << endl;
 	cin >> choice; cout << "The choice is made" << endl;
-	Sleep(1000);
+	cout << "Viktor" << endl;
+	cout << "Daniil" << endl;
+	Sleep(10000);
 	while (true) {
 		cout << choice;
 	}
 	cout << "Ura" << endl;
+	cout << "---------------------------" << endl;
+	cout << "|пїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ?------------|" << endl;
+	cout << "|yES----------------------|" << endl;
+	cout << "|-------------------------|" << endl;
+	cout << "|-------------------------|" << endl;
+	cout << "---------------------------" << endl;
 }
