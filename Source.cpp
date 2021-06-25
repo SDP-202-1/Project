@@ -13,8 +13,12 @@ int main()
 	string choice;
 	cout << "Teacher work" << endl;
 	//Never gonna give you up
+
+	cout << "Убийца нубов" << endl;
+
 	cout << "Savva" << endl;
 	cout << "Nikita" << endl;
+
 	cout << "Aboba" << endl;
 	cout << "Abiba" << endl;
 	cout << "Oleg" << endl;
