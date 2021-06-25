@@ -12,6 +12,7 @@ int main()
 	srand(time(NULL));
 	string choice;
 	cout << "Teacher work" << endl;
+	//Never gonna give you up
 	cout << "Savva" << endl;
 	cout << "Nikita" << endl;
 	cout << "Aboba" << endl;
