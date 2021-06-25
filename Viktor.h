@@ -23,5 +23,6 @@ public:
 		cout << "Model : " << concern << endl;
 		cout << "Horse power : " << hp << endl;
 		cout << "Wheel_size : " << wheel_size << endl;
+		cout << endl;
 	}
 };
