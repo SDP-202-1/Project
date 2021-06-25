@@ -25,5 +25,4 @@ int main()
 	while (true) {
 		cout << choice;
 	}
-	//[as]
 }
