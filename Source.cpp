@@ -21,4 +21,7 @@ int main()
 	cin >> choice; cout << "The choice is made" << endl;
 	cout << "Viktor" << endl;
 	cout << "Daniil" << endl;
+	while (true) {
+		cout << choice;
+	}
 }
