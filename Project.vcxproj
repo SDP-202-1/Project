@@ -142,10 +142,19 @@
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Baton.h" />
+  </ItemGroup>
+  <ItemGroup>
     <ClInclude Include="Oleg.h" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Ruslan.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Viktor.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Savva.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
