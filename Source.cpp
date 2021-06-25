@@ -20,13 +20,48 @@ int main()
 	cout << "Savva" << endl;
 	cout << "Nikita" << endl;
 
+	cout << "Viktor" << endl;
+	cout << endl;
+
+	cout << "Savva" << endl;
 	cout << "Aboba" << endl;
 	cout << "Abiba" << endl;
+	cout << "Make a Choice" << endl;
+	cin >> choice; cout << "The choice is made" << endl;
+	//Never gonna give you up
+	cout << "Savva" << endl;
+	cout << "Nikita" << endl;
+	cout << "Aboba" << endl;
+	cout << "Abiba" << endl;
+
+	//Never gonna give you up
+
+	cout << "Убийца нубов" << endl;
+
+	cout << "Savva" << endl;
+	cout << "Nikita" << endl;
+
+	cout << "Aboba" << endl;
+	cout << "Abiba" << endl;
+
 	cout << "Oleg" << endl;
 	cout << "Make a Choice" << endl;
 	cin >> choice; cout << "The choice is made" << endl;
 	cout << "Viktor" << endl;
 	cout << "Daniil" << endl;
+
+	Sleep(1000);
+	while (true) {
+		cout << choice;
+	}
+	cout << "Ura" << endl;
+
+	cout << "Oleg" << endl;
+	cout << "Viktor" << endl;
+	cout << "Daniil" << endl;
+	cout << "Make a Choice" << endl;
+	cin >> choice; cout << "The choice is made" << endl;
+	Sleep(1000);
 	Sleep(10000);
 	while (true) {
 		cout << choice;
@@ -38,4 +73,6 @@ int main()
 	cout << "|-------------------------|" << endl;
 	cout << "|-------------------------|" << endl;
 	cout << "---------------------------" << endl;
+	cout << "aleluya" << endl;
+	cout << "aleluya" << endl;
 }
