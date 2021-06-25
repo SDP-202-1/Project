@@ -1,4 +1,4 @@
-п»ї#include <iostream>
+#include <iostream>
 #include <string>
 #include <ctime>
 #include <fstream>
@@ -15,7 +15,7 @@ int main()
 	cout << "Teacher work" << endl;
 	//Never gonna give you up
 
-	cout << "пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ" << endl;
+	cout << "Убийца нубов" << endl;
 
 	cout << "Savva" << endl;
 	cout << "Nikita" << endl;
@@ -27,15 +27,14 @@ int main()
 	cout << "Daniil" << endl;
 	cout << "Make a Choice" << endl;
 	cin >> choice; cout << "The choice is made" << endl;
-	cout << "Viktor" << endl;
-	cout << "Daniil" << endl;
+	Sleep(1000);
 	Sleep(10000);
 	while (true) {
 		cout << choice;
 	}
 	cout << "Ura" << endl;
 	cout << "---------------------------" << endl;
-	cout << "|пїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ?------------|" << endl;
+	cout << "|Ты был здесь?------------|" << endl;
 	cout << "|yES----------------------|" << endl;
 	cout << "|-------------------------|" << endl;
 	cout << "|-------------------------|" << endl;
