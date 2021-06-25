@@ -25,4 +25,5 @@ int main()
 	while (true) {
 		cout << choice;
 	}
+	cout << "Ura" << endl;
 }
