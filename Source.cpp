@@ -16,6 +16,7 @@ int main()
 	cout << "Nikita" << endl;
 	cout << "Aboba" << endl;
 	cout << "Abiba" << endl;
+	cout << "Oleg" << endl;
 	cout << "Make a Choice" << endl;
 	cin >> choice; cout << "The choice is made" << endl;
 }
