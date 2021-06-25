@@ -1,3 +1,4 @@
+#pragma once
 #include <iostream>
 #include <string>
 #include <ctime>
@@ -68,7 +69,7 @@ int main()
 	}
 	cout << "Ura" << endl;
 	cout << "---------------------------" << endl;
-	cout << "|Ты был здесь?------------|" << endl;
+	cout << "|Some text?---------------|" << endl;
 	cout << "|yES----------------------|" << endl;
 	cout << "|-------------------------|" << endl;
 	cout << "|-------------------------|" << endl;
