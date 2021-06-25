@@ -74,4 +74,5 @@ int main()
 	cout << "|-------------------------|" << endl;
 	cout << "---------------------------" << endl;
 	cout << "aleluya" << endl;
+	cout << "aleluya" << endl;
 }
