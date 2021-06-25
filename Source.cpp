@@ -13,4 +13,5 @@ int main()
 	cout << "Teacher work" << endl;
 	cout << "Aboba" << endl;
 	cout << "Abiba" << endl;
+	cout << "Oleg" << endl;
 }
