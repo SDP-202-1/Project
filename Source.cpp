@@ -57,10 +57,11 @@ int main()
 	cout << "Ura" << endl;
 
 	cout << "Oleg" << endl;
-	cout << "Make a Choice" << endl;
-	cin >> choice; cout << "The choice is made" << endl;
 	cout << "Viktor" << endl;
 	cout << "Daniil" << endl;
+	cout << "Make a Choice" << endl;
+	cin >> choice; cout << "The choice is made" << endl;
+	Sleep(1000);
 	Sleep(10000);
 	while (true) {
 		cout << choice;
