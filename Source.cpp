@@ -12,7 +12,6 @@ int main()
 	srand(time(NULL));
 	string choice;
 	cout << "Teacher work" << endl;
-
 	cout << "Viktor" << endl;
 	cout << endl;
 
@@ -21,4 +20,14 @@ int main()
 	cout << "Abiba" << endl;
 	cout << "Make a Choice" << endl;
 	cin >> choice; cout << "The choice is made" << endl;
+	//Never gonna give you up
+	cout << "Savva" << endl;
+	cout << "Nikita" << endl;
+	cout << "Aboba" << endl;
+	cout << "Abiba" << endl;
+	cout << "Oleg" << endl;
+	cout << "Make a Choice" << endl;
+	cin >> choice; cout << "The choice is made" << endl;
+	cout << "Viktor" << endl;
+	cout << "Daniil" << endl;
 }
