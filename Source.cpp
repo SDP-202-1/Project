@@ -22,7 +22,9 @@ int main()
 	cin >> choice; cout << "The choice is made" << endl;
 	cout << "Viktor" << endl;
 	cout << "Daniil" << endl;
+	Sleep(1000);
 	while (true) {
 		cout << choice;
 	}
+	cout << "Ura" << endl;
 }
