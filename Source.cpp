@@ -12,8 +12,11 @@ int main()
 	srand(time(NULL));
 	string choice;
 	cout << "Teacher work" << endl;
-	cout << "Savva" << endl;
+
 	cout << "Убийца нубов" << endl;
+
+	cout << "Savva" << endl;
+
 	cout << "Aboba" << endl;
 	cout << "Abiba" << endl;
 	cout << "Make a Choice" << endl;
