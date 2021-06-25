@@ -10,6 +10,7 @@ int main()
 {
 	SetConsoleCP(1251); SetConsoleOutputCP(1251);
 	srand(time(NULL));
+	setlocale(LC_ALL, "rus");
 	string choice;
 	cout << "Teacher work" << endl;
 	//Never gonna give you up
@@ -27,4 +28,10 @@ int main()
 		cout << choice;
 	}
 	cout << "Ura" << endl;
+	cout << "---------------------------" << endl;
+	cout << "|Ты был здесь?------------|" << endl;
+	cout << "|yES----------------------|" << endl;
+	cout << "|-------------------------|" << endl;
+	cout << "|-------------------------|" << endl;
+	cout << "---------------------------" << endl;
 }
