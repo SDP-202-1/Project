@@ -23,6 +23,12 @@
     <ClInclude Include="Oleg.h">
       <Filter>Исходные файлы</Filter>
     </ClInclude>
+    <ClInclude Include="Viktor.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="stud-Ruslan.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Ruslan.h">
