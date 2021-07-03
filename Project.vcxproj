@@ -151,6 +151,7 @@
     <ClInclude Include="Ruslan.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="stud-makar.h" />
     <ClInclude Include="stud-Ruslan.h" />
     <ClInclude Include="Viktor.h" />
   </ItemGroup>
